@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd43a7d4.css",
+    "main.js": "/static/js/main.029dfdcf.js",
+    "static/js/787.5b0e2599.chunk.js": "/static/js/787.5b0e2599.chunk.js",
+    "static/media/Woman-Transparent-PNG.png": "/static/media/Woman-Transparent-PNG.16d1ef07d1352adab251.png",
+    "static/media/Abstract.gif": "/static/media/Abstract.944e84ec986e6013abe2.gif",
+    "static/media/Bear.gif": "/static/media/Bear.b2abe5073a930a60cf58.gif",
+    "static/media/ByKq.gif": "/static/media/ByKq.3b239361e1e831d54f52.gif",
+    "static/media/darth-vader_1.png": "/static/media/darth-vader_1.b804156446876d840245.png",
+    "static/media/Avatar.jpg": "/static/media/Avatar.937931c5fe74103d5c62.jpg",
+    "static/media/Pirates.jpg": "/static/media/Pirates.9fa33ee296572c648abc.jpg",
+    "index.html": "/index.html",
+    "main.bd43a7d4.css.map": "/static/css/main.bd43a7d4.css.map",
+    "main.029dfdcf.js.map": "/static/js/main.029dfdcf.js.map",
+    "787.5b0e2599.chunk.js.map": "/static/js/787.5b0e2599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd43a7d4.css",
+    "static/js/main.029dfdcf.js"
+  ]
+}
